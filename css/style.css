@@ -89,7 +89,7 @@ h1 {
 	line-height: 1.75em;
 	margin-bottom: 1em;
 	text-transform: uppercase;
-	text-align: center;
+	text-align: c;
 }
 
 h4,
@@ -1134,19 +1134,19 @@ mark {
 }
 
 .slide:nth-child(1) {
-	background-color: #49b293;
+	background-color: #4e3883;
 }
 
 .slide:nth-child(2) {
-	background-color: #b03532;
+	background-color: #4e3883;
 }
 
 .slide:nth-child(3) {
-	background-color: #00eeff;
+	background-color: #4e3883;
 }
 
 .slide:nth-child(4) {
-	background-color: #ffff00;
+	background-color: #4e3883;
 }
 
 /* bouton 1 ==============================================================================*/
