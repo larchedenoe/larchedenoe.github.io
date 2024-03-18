@@ -1063,7 +1063,9 @@ mark {
 /*   Carrousel ==========================================================================*/
 
 .slider-wrapper {
-	margin: 1rem;
+	margin-left: auto;
+	margin-right: auto;
+	width:80%;
 	position: relative;
 	overflow: hidden;
 }
