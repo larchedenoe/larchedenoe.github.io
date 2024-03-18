@@ -82,9 +82,16 @@ form {
 	margin: 0 0 2em 0;
 }
 
-
 p,
-h1,
+h1 {
+	color: #5b5b5b;
+	letter-spacing: 0.125em;
+	line-height: 1.75em;
+	margin-bottom: 1em;
+	text-transform: uppercase;
+	text-align: center;
+}
+
 h4,
 h5,
 h6 {
@@ -93,7 +100,7 @@ h6 {
 	line-height: 1.75em;
 	margin-bottom: 1em;
 	text-transform: uppercase;
-	text-align: center;
+	text-align: justify;
 }
 
 h2,
